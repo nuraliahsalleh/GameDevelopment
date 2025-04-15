@@ -1,5 +1,5 @@
 # GameDevelopment
-This project aims to design and develop a computer game based on traditional Malay pantun (quatrains) in an interactive 3D exploration format. The findings indicate that interactive and educational game elements can enhance users' interest in understanding and applying pantun.
+WIRA RIMBA GAME, this project aims to design and develop a computer game based on traditional Malay pantun (quatrains) in an interactive 3D exploration format. The findings indicate that interactive and educational game elements can enhance users' interest in understanding and applying pantun.
 
 Third-Person 3D Perspective
 The player controls Jati from a third-person perspective to restore harmony in Hutan Pantun (the Pantun Forest).
